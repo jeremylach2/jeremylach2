@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jeremy Lachowicz</h1>
-- 🔭 I’m currently working on [RealityRL](github.com/realityrl/realityrl.com)
 
 - 📫 How to reach me **jdlachowicz@mail.roanoke.edu**
 
